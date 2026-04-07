@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Advanced-blue?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-blue?style=for-the-badge)
 
 ---
 
