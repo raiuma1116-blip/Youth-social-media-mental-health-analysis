@@ -2,7 +2,7 @@
 
 ---
 
-**Power BI | Project Completed | Intermediate**
+## **Power BI | Project Completed | Intermediate**
 
 ---
 
