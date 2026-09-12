@@ -1,17 +1,17 @@
 # 📊 Youth Social Media & Mental Health Analysis
 
-![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Intermediate-blue?style=for-the-badge)
+---
+
+**Power BI | Project Completed | Intermediate**
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 This project explores youth social media behavior and its impact on mental health using an interactive Power BI dashboard.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze usage patterns  
 - Identify peak engagement  
 - Understand content trends  
@@ -19,7 +19,7 @@ This project explores youth social media behavior and its impact on mental healt
 
 ---
 
-## 📊 Key Highlights
+##  Key Highlights
 1. ~70–80% usage is habit-driven  
 2. Peak activity in evening  
 3. Instagram leads engagement  
@@ -30,7 +30,7 @@ This project explores youth social media behavior and its impact on mental healt
 
 ---
 
-## 🧠 Dashboard Features
+##  Dashboard Features
 - Multi-page interactive dashboard  
 - Insight → Problem → Recommendation → Impact  
 - Navigation buttons with tooltips  
@@ -46,7 +46,7 @@ This project explores youth social media behavior and its impact on mental healt
 
 ---
 
-# 📸 Dashboard Preview
+#  Dashboard Preview
 
 ## 🔹 Overview
 ![Overview](Overview.png)
@@ -83,7 +83,7 @@ This project explores youth social media behavior and its impact on mental healt
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### ⭐ OVERVIEW:
 Social media engagement is high among users, but it is primarily habit-driven rather than intentional, indicating growing digital dependency across all regions.
@@ -102,9 +102,3 @@ Aspiring Data Analyst
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/umarai12/)
 
 ---
-
-## 🚀 Open to Opportunities
-I am actively seeking opportunities in data analytics where I can apply my skills and contribute to data-driven decision-making.
-
-## 📬 Let’s Connect
-If you found this project interesting or would like to collaborate, feel free to connect with me on LinkedIn or explore more of my work on GitHub.
